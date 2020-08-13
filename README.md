@@ -13,3 +13,4 @@ Notebooks can be viewed in the repository but are best viewed on [nbviewer.jupyt
 - [002_02_DF_pooled_GEA_interior_gather.ipynb](https://nbviewer.jupyter.org/github/CoAdapTree/doug_fir_mapping_pops_analyses/blob/master/002_02_DF_pooled_GEA_interior_gather.ipynb)
 
 pythonimports module seen in notebooks is here: https://github.com/brandonlind/pythonimports
+# jack_pine_mapping_pops_analyses
